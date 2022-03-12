@@ -1,0 +1,616 @@
+{
+    "search_metadata": {
+        "id": "622c3ec3fdca3e65888a7566",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/467cb2433d124ef6/622c3ec3fdca3e65888a7566.json",
+        "created_at": "2022-03-12 06:33:39 UTC",
+        "processed_at": "2022-03-12 06:33:39 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=anime",
+        "raw_html_file": "https://serpapi.com/searches/467cb2433d124ef6/622c3ec3fdca3e65888a7566.html",
+        "total_time_taken": 1.48
+    },
+    "search_parameters": {
+        "engine": "youtube",
+        "search_query": "anime"
+    },
+    "search_information": {
+        "total_results": 782470200,
+        "video_results_state": "Results for exact spelling"
+    },
+    "video_results": [
+        {
+            "position_on_page": 1,
+            "title": "Munou na Nana Episode 1-12 English Dub | Anime Episode 1 English Dub | Anime Full Screen Dub",
+            "link": "https://www.youtube.com/watch?v=ibVeMAtmEHY",
+            "channel": {
+                "name": "Billion",
+                "link": "https://www.youtube.com/user/billion9873",
+                "thumbnail": "https://yt3.ggpht.com/_oV6GXixitFFDkndNij4R3ILbQ9NhB9oFe_fLJSGzotHSvWyL5XptK4VIsmuM_a47s0H93pfEA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 months ago",
+            "views": 415522,
+            "length": "4:40:11",
+            "description": "Munou na Nana Episode 1-12 English Dub | Anime Episode 1 English Dub | Anime Full Screen Dub.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/ibVeMAtmEHY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_NKLpacAkxXRshyHrnXzqBqIWkA"
+            }
+        },
+        {
+            "position_on_page": 2,
+            "title": "Mafia's Supernatural Power Episode 1 - 12 English Dub | Anime Episode 1 English Dub | Full Screen HD",
+            "link": "https://www.youtube.com/watch?v=X1udlGmSyQM",
+            "channel": {
+                "name": "Marymacdonald",
+                "link": "https://www.youtube.com/channel/UChqoH2el7ESuDEyKpPZpeDA",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/Vm62oWU3JBT9s6xJr-OqYh1tENCdMOeZZXIfx8ZzozSpXZS2cOQmv322BhoVt5SKzjh5u5A4EA=s88-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 months ago",
+            "views": 711212,
+            "length": "4:10:52",
+            "description": "Mafia's Supernatural Power Episode 1 - 12 English Dub | Anime Episode 1 English Dub | Full Screen HD.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/X1udlGmSyQM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUnwhBUWMsd0-lcYwRb85GhzH-uQ"
+            }
+        },
+        {
+            "position_on_page": 3,
+            "title": "Ninjala Anime -Episode 9- [Available Until 3/17 7:59PM PT]",
+            "link": "https://www.youtube.com/watch?v=Aq8aRvmr8bE",
+            "channel": {
+                "name": "PlayNinjala",
+                "link": "https://www.youtube.com/c/PlayNinjala",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ4Hb29WU-7KuKEHxA9cHl93DYRlPhDUh2QY4qB=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 day ago",
+            "views": 8460,
+            "length": "23:16",
+            "description": "Ninjala anime -Episode 9- \u3010Emma and Lucy's Fun-sized Adventure\u3011 Emma is enjoying her day off, dancing on a street corner,\u00a0...",
+            "extensions": [
+                "New",
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/Aq8aRvmr8bE/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1yX_ztVO5YotKoNK0htWovauLPQ"
+            }
+        },
+        {
+            "position_on_page": 4,
+            "title": "\"NO WAY ODA CONFIRMED THIS!\" Luffy's NEW GODLY NIKA NIKA FRUIT POWERS - JOY BOY & GEAR 5 EXPLAINED",
+            "link": "https://www.youtube.com/watch?v=10i5MDRiOF8",
+            "channel": {
+                "name": "Anime Balls Deep",
+                "link": "https://www.youtube.com/c/AnimeBallsDeep",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLS4Du4ZU7XJQrlIwSKWdbMN9-4RUr_9RI1PIif44w=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 hours ago",
+            "views": 155140,
+            "length": "19:54",
+            "description": "One Piece Chapter 1043 Has just revealed Luffy's GEAR 5 FORM where he is melting. We go over a brand new theory by the\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/10i5MDRiOF8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAktakoxlWcjy9BE56pXhPGAgPyPw"
+            }
+        },
+        {
+            "position_on_page": 5,
+            "title": "Thi\u00ean T\u00e0i \" Xuy\u00ean Kh\u00f4ng \" V\u1edbi B\u1ed9 N\u00e3o 2000 IQ | T\u00f3m T\u1eaft Anime Hay | G\u1ea5u X\u00e0m",
+            "link": "https://www.youtube.com/watch?v=B6RJ7gPiqZQ",
+            "channel": {
+                "name": "G\u1ea5u X\u00e0m",
+                "link": "https://www.youtube.com/channel/UCIjamj1yogzhjIpSPLV-zMw",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/BlVcSwMSQqhF9mlyLyJ7elwzNgLzaq21CkMx9_j1Tn3NK3_FsChr0k_J1gpiQDIGyT_z5OPE=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 hours ago",
+            "views": 26338,
+            "length": "15:34",
+            "description": "Thi\u00ean T\u00e0i \" Xuy\u00ean Kh\u00f4ng \" V\u1edbi 2000 IQ | T\u00f3m T\u1eaft Anime Hay | G\u1ea5u X\u00e0m Review anime h\u00e0i h\u01b0\u1edbc Anime : Choujin Koukousei-tachi\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/B6RJ7gPiqZQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXmjrQg1NVEWiP7POptcGM9uhPKg"
+            }
+        },
+        {
+            "position_on_page": 6,
+            "title": "WOW!!! Alex... | Minecraft Anime Animation 65",
+            "link": "https://www.youtube.com/watch?v=P_ap9avKn1U",
+            "channel": {
+                "name": "Anime Nation",
+                "link": "https://www.youtube.com/channel/UCP9bgvSFkDQQvrqMxyO_jvQ",
+                "thumbnail": "https://yt3.ggpht.com/mHkDdSt0BfiO3JnQXprfeoqaUk9sLYj6hIrfweQIeHVBDbYW14uhMAU442jFnSwNLiNvKPdcKw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 days ago",
+            "views": 28278,
+            "length": "0:41",
+            "description": "You're watching Minecraft animation about Alex and Steve life! Minecraft cartoon - \"...\" - Minecraft Anime Animation Thanks For\u00a0...",
+            "extensions": [
+                "New",
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/P_ap9avKn1U/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBEKEaIJK6G_vL5Zi8hSGuOxG3Eig"
+            }
+        },
+        {
+            "position_on_page": 7,
+            "title": "I Became The Strongest Hero In Anime Punching Simulator Roblox!",
+            "link": "https://www.youtube.com/watch?v=OPg4emxR9V0",
+            "channel": {
+                "name": "mayrushart",
+                "link": "https://www.youtube.com/c/mayrushart",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/RDg44YeZJERg54iKvwo2GarAOGXdWKdfvi5dcHMoXAEwn_vPDn-vu3tfSwe61O8C_oshMf5SUA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 days ago",
+            "views": 526841,
+            "length": "19:50",
+            "description": "I Became The Strongest Hero In Anime Punching Simulator Roblox! Star Code: mayrushart Instagram:\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/OPg4emxR9V0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqEjTLTbjKCUIYluXAu4twJEacQg"
+            }
+        },
+        {
+            "position_on_page": 8,
+            "title": "JUJUTSU KAISEN 0 | OFFICIAL TRAILER 3",
+            "link": "https://www.youtube.com/watch?v=2docezZl574",
+            "channel": {
+                "name": "Crunchyroll Collection",
+                "link": "https://www.youtube.com/c/CrunchyrollCollection",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQgw3p393tsGPtBSlxxgerfvAAAcxVKZbp_ZQTx2A=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "16 hours ago",
+            "views": 690049,
+            "length": "2:11",
+            "description": "Crunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/2docezZl574/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlrJ96uN73K0B9e2ap4kV_8gyLGg"
+            }
+        },
+        {
+            "position_on_page": 9,
+            "title": "My mom treats me like I\u2019m adopted",
+            "link": "https://www.youtube.com/watch?v=MOznPir5Z58",
+            "channel": {
+                "name": "MSA previously My Story Animated",
+                "link": "https://www.youtube.com/channel/UCYzEMRKqrh01-tauv7MYyVQ",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/VY4DYRWFYKJUU9jbhfUmQdiDdlI4pCwDvx81Wv7JLf-bYRuhd5xoLl6DpExtud-B1_jNU2ViYA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 day ago",
+            "views": 2894421,
+            "length": "13:50",
+            "description": "Subscribe now to join our MSA family! Follow us on Instagram @my.story.animated for exclusive content, teasers for upcoming\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/MOznPir5Z58/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBa5ZlOCwnWJxOXhGrkhsFFi-kojg"
+            }
+        },
+        {
+            "position_on_page": 10,
+            "title": "324 Layer Croissant from Yakitate!! Japan | Anime with Alvin",
+            "link": "https://www.youtube.com/watch?v=Ni8BsXyln_Q",
+            "channel": {
+                "name": "Babish Culinary Universe",
+                "link": "https://www.youtube.com/c/bingingwithbabish",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLThNIt7wJNY8V0891kja1qWPzyB5tUYAsAL0Pwc=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 days ago",
+            "views": 1099587,
+            "length": "12:19",
+            "description": "This week Alvin is making the famed 324 layer (minus 10) croissant from Yakitate!! Japan. Follow Alvin Zhou on Instagram:\u00a0...",
+            "extensions": [
+                "New",
+                "4K"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/Ni8BsXyln_Q/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD31m8DPh0IeQ-iF2RsVJWtkX9Lmg"
+            }
+        },
+        {
+            "position_on_page": 11,
+            "title": "A Billionaire Became My Personal Assistant!",
+            "link": "https://www.youtube.com/watch?v=HmcaRsF1Eck",
+            "channel": {
+                "name": "MSA previously My Story Animated",
+                "link": "https://www.youtube.com/channel/UCYzEMRKqrh01-tauv7MYyVQ",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/VY4DYRWFYKJUU9jbhfUmQdiDdlI4pCwDvx81Wv7JLf-bYRuhd5xoLl6DpExtud-B1_jNU2ViYA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 days ago",
+            "views": 3383965,
+            "length": "13:07",
+            "description": "Subscribe now to join our MSA family! Follow us on Instagram @my.story.animated for exclusive content, teasers for upcoming\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/HmcaRsF1Eck/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCzuijmE5qSUUq41p4l3cRjkqLqtw"
+            }
+        },
+        {
+            "position_on_page": 12,
+            "title": "Anime Moments Where The Bullies Got What They Deserve.",
+            "link": "https://www.youtube.com/watch?v=k9gYpXQK8Tk",
+            "channel": {
+                "name": "Animan",
+                "link": "https://www.youtube.com/c/Animan2",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQYg9Ppm1grnqEgLuEd8EvUlc_wJLcUlU2MsSzYGg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "8 months ago",
+            "views": 7815672,
+            "length": "11:23",
+            "description": "Being a medium that is full of tons of stories based around schools there is no surprise that there are tons of school bullies in the\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/k9gYpXQK8Tk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBhrSFq3hm6a14oQZCGnFI857_9VQ"
+            }
+        },
+        {
+            "position_on_page": 15,
+            "title": "TikTok Anime Compilation(Pt.323)",
+            "link": "https://www.youtube.com/watch?v=fL6HhOjk1ic",
+            "channel": {
+                "name": "TikTok Anime",
+                "link": "https://www.youtube.com/c/TikTokAnime690",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLShQUkTE0Ls9rY3fD9RmZf3vgNdj2UYrf04_JRL=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "13 hours ago",
+            "views": 5845,
+            "length": "12:45",
+            "description": "Amazing Women Watches!! https://watchesbymysoo.biz Thanks for watching and hope you enjoyed our Anime Tik Tok\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/fL6HhOjk1ic/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDStXQ5gfYNe4f623h539_dm6JUZw"
+            }
+        },
+        {
+            "position_on_page": 16,
+            "title": "Best New Winter 2022 Anime",
+            "link": "https://www.youtube.com/watch?v=yXZfy05ZRM4",
+            "channel": {
+                "name": "ViniiTube",
+                "link": "https://www.youtube.com/c/ViniiTube1",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ6DO0kc2mt3NSe7NYptVe3ktzaAC4lJKAkAIjLfA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 days ago",
+            "views": 282650,
+            "length": "10:55",
+            "description": "Today, we'll be going through some of my favorite new anime from the winter 2022 season. So strap yourselves in, and let's take a\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/yXZfy05ZRM4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIr6gk2qUfgQBv-cBwvLk-fM-hkg"
+            }
+        },
+        {
+            "position_on_page": 17,
+            "title": "Top 10 Anime Where The Main Character Gets Betrayed and Becomes a Badass",
+            "link": "https://www.youtube.com/watch?v=5oll_vtVXYY",
+            "channel": {
+                "name": "Animeology",
+                "link": "https://www.youtube.com/channel/UCEoaZG1TCdCor70MRuF7X7Q",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLR-hjg8grfg3yBV8tuKOkZL2LtcggQ6NJlAKkv5nQ=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 days ago",
+            "views": 29119,
+            "length": "14:09",
+            "description": "Welcome to Animeology, today we will be taking a look at the 10 Anime Where The Main Character Gets Betrayed and Becomes a\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/5oll_vtVXYY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJebmdbzwQyKLrAJKg9Z96y6kLVA"
+            }
+        },
+        {
+            "position_on_page": 19,
+            "title": "Mysterious Assassin Episode 1 - 12 English Dub | Anime English Dub 2022",
+            "link": "https://www.youtube.com/watch?v=AM0wZnvwRlc",
+            "channel": {
+                "name": "ademcanix",
+                "link": "https://www.youtube.com/channel/UCkxNf8gAhHdAI5HeZHsLJRA",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTqPWavTOBlMvcyHduxxgrGhBONLZrHfOIw21NF=s88-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "12 days ago",
+            "views": 134217,
+            "length": "4:17:42",
+            "description": "Mysterious Assassin Episode 1 - 12 English Dub | Anime English Dub 2022 #AnimeDub\u200b, #AnimeMagic\u200b, #AnimeEpisode1\u200b,\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/AM0wZnvwRlc/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDM4v7EwC6oSIftZ6Yb04w8RfCxiA"
+            }
+        },
+        {
+            "position_on_page": 20,
+            "title": "Top 10 Fantasy Anime With an Overpowered Protagonist",
+            "link": "https://www.youtube.com/watch?v=ydx7uKEtNmM",
+            "channel": {
+                "name": "Otaku Sensei",
+                "link": "https://www.youtube.com/c/OtakuSensei",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLRwcNFu1OQhoLc7QgU1pvC7SBbd-i78vtt6n1o66w=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 days ago",
+            "views": 19724,
+            "length": "9:09",
+            "description": "\u2022 Activate the notification bell so you do not lose everything that happens on the channel, be an active subscriber !",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/ydx7uKEtNmM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6BGx5SXZPxyT5h772QkiR9erLeQ"
+            }
+        },
+        {
+            "position_on_page": 21,
+            "title": "Adventure Into A Fantasy World Episode 1-12 | Anime English Dub 2022",
+            "link": "https://www.youtube.com/watch?v=1y_6annabtE",
+            "channel": {
+                "name": "\u8a79\u60a0\u7c73",
+                "link": "https://www.youtube.com/channel/UCPauBcn3VlJrVXGlq6Ao1dA",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/-AAYQBUZ4YOB6PKPpGHVJuMfx7GKN9_gE8-CCcrcC9AicWPA8CiTxrFfNBOQwWM4x_YNm7qSGFk=s88-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 day ago",
+            "views": 12221,
+            "length": "4:00:56",
+            "description": "Like - Share - Comment Video. \u25bb Subscribe to my channel to watch more videos. #samanimedub #actionanime\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/1y_6annabtE/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRewr9GxeWQc_-AEVBmRGR-G7_3g"
+            }
+        },
+        {
+            "position_on_page": 22,
+            "title": "BADASS ANIME MOMENTS TIKTOK Compilation Part 85 (Anime and Song Names)",
+            "link": "https://www.youtube.com/watch?v=mrp92Fr4qIM",
+            "channel": {
+                "name": "psps",
+                "link": "https://www.youtube.com/c/pspsyt",
+                "thumbnail": "https://yt3.ggpht.com/motq2DRoLMQ7Rp7w-rvhHjxvv9Rp5Ib4hQ8Uxq592MEVkPkh_H2ffbye3vWwDsZQGKMJPH662Q=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "15 hours ago",
+            "views": 19984,
+            "length": "8:48",
+            "description": "Enjoy Merch --- Shop Anime Merch: https://bit.ly/PspsAnimeMerch Shop Aesthetic Merch: https://bit.ly/PspsArtsyMerch Extra 10%\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/mrp92Fr4qIM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAtvjD2UsYG00qkcrdryg195AnQFQ"
+            }
+        }
+    ],
+    "people_also_watched": [
+        {
+            "position_on_page": 13,
+            "title": "The Faraway Paladin Episode 1 - 12 English Dub Full Screen. Anime Full HD Dub",
+            "link": "https://www.youtube.com/watch?v=5UgHXqjWLd8",
+            "channel": {
+                "name": "khakhaLinh",
+                "link": "https://www.youtube.com/channel/UCRd1X3tWLXeqRQ_MTiwscRg",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/9NDwnUPHpxfxE8SAW8EOWHX4uDO4s1sH1x4TA9LP2t97EjJjWpbtqP3PTznQJzOtxoIk3Lk9LUE=s88-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 weeks ago",
+            "views": 91228,
+            "length": "4:20:50",
+            "description": "The Faraway Paladin Episode 1 - 12 English Dub Full Screen. Anime Full HD Dub.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/5UgHXqjWLd8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8snJKGJXQ-D9bWl1U32AWcL0wZQ"
+            }
+        },
+        {
+            "position_on_page": 14,
+            "title": "Dororo (Episode 1-24) HD 1080 English Subbed (\u3069\u308d\u308d)",
+            "link": "https://www.youtube.com/watch?v=DhRrKlKxfgI",
+            "channel": {
+                "name": "pawanglordify",
+                "link": "https://www.youtube.com/user/pawanglordify",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLR61QqA33y6g6Sjj45K9l1Vm2xAAZ7H6mdxN6X7=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 months ago",
+            "views": 620966,
+            "length": "8:15:00",
+            "description": "A father in pursuit of power gives parts of his new-born son to a host of demons. Years later, the son battles those demons to\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/DhRrKlKxfgI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCyOz6Qawxxpb2RQVAp3Y3XvtE1kw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "LUFFY IS REBORN AS A GOD! DEVIL FRUIT AWAKENING AND JOY BOY REVEAL!!! - One Piece Chapter 1043",
+            "link": "https://www.youtube.com/watch?v=ezKvl9YYwi4",
+            "channel": {
+                "name": "Plot Armor",
+                "link": "https://www.youtube.com/c/PlotArmor",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQpI95tqjV8RszQxsrfv8a5yZc7ySaIrnsoahAU=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "19 hours ago",
+            "views": 238872,
+            "length": "11:27",
+            "description": "#onepiece #anime #manga.",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/ezKvl9YYwi4/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDqgGhhLrIZMMzb18ScUPV4xC3_A"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Top 20 Visually Stunning Anime Fights",
+            "link": "https://www.youtube.com/watch?v=Eu5be6244yI",
+            "channel": {
+                "name": "Mark The Top Fabricator",
+                "link": "https://www.youtube.com/channel/UCaR3UbHxR7Ey44oXDorQWUg",
+                "thumbnail": "https://yt3.ggpht.com/D0RcaylHSsWrpBaLVu9m8JiN3GkPanAock-F5Ie82WbfxB-9q23_bCQ3SPP4Kyws-P9rM9c8=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 month ago",
+            "views": 80809,
+            "length": "28:26",
+            "description": "This a list of some the best anime fights with top tier anime animation, i have rank them in how god the animation is, so they may\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/Eu5be6244yI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3MLKOe-dCNOhaPR4UYF5fB8bW6g"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Hidden Side\u300c Kazuma AMV\u300d- Throne",
+            "link": "https://www.youtube.com/watch?v=_Iwk7oWzu2I",
+            "channel": {
+                "name": "K a z u m a Lvl 9 9 9 9 9 9",
+                "link": "https://www.youtube.com/c/SubarashiiAMV",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTBy2F0fPeHqjhDIzLDeoiKb6WWZREyq5gJ4pO7=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "7 months ago",
+            "views": 14024369,
+            "length": "3:58",
+            "description": "Facebook @KazumaLvl999999999999999 \u2709Instagram @KazumaLvl999999999999999\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/_Iwk7oWzu2I/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtup_PIjKLuitgy_V7vt1o6WlzcA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Naruto became an idol, Sasuke becomes a bad boy, Tenten's dream world Naruto English Dub",
+            "link": "https://www.youtube.com/watch?v=PoS8_m-jJAk",
+            "channel": {
+                "name": "Dark Tobi",
+                "link": "https://www.youtube.com/user/someblackbich",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ7LztWnN6S4YEyjoIlCRi1N8kM473UXNC7CcNT=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 8307286,
+            "length": "12:21",
+            "description": "Naruto became an idol, Sasuke becomes a bad boy, Tenten's dream world Naruto English Dub.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/PoS8_m-jJAk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5FdylObBaohyTJ8n7udn6PjJOqQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "lofi hip hop radio - beats to relax/study to",
+            "link": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+            "watching": 18909,
+            "live": true,
+            "channel": {
+                "name": "Lofi Girl",
+                "link": "https://www.youtube.com/c/LofiGirl",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/qXwJcIl7ufH0x8skbCBBdACHCgRKuPxXRIR3AQCBxNolUiQ0OwOEdK3Qo9p7tiTGBAzq0nY0430=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "description": "Thank you for listening, I hope you will have a good time here | Participate in the 10 000 000 giveaway\u00a0...",
+            "extensions": [
+                "LIVE NOW"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/5qap5aO4i9A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCJ8LaD9wdJbZcyYIqPwTbGvKlJxQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Top 10 Anime Where The Main Character is Betrayed but Comes Back Overpowered",
+            "link": "https://www.youtube.com/watch?v=Q6nBIRW5esI",
+            "channel": {
+                "name": "DoubleDollars",
+                "link": "https://www.youtube.com/channel/UCxorNR_-G16WKyAdPhOzVcA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLS-O6f8Z9Fr8zhva69TXucxKE4SCa4X2mJUiYIr=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "11 months ago",
+            "views": 4317834,
+            "length": "14:42",
+            "description": "Top 10 Anime Where The Main Character is Betrayed but Comes Back Overpowered Subscribe For More! This list is in no\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/Q6nBIRW5esI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALw-CfJN5bi6RJ84z2IyJFhCX7Eg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Demon Slayer just Set a New Standard",
+            "link": "https://www.youtube.com/watch?v=A_9gR41ivBU",
+            "channel": {
+                "name": "Gigguk",
+                "link": "https://www.youtube.com/c/animezone",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLRb76Qettp7l4j-22D7WrAsBT1G1Cc9KpRNm2pm=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "7 days ago",
+            "views": 1231591,
+            "length": "11:26",
+            "description": "The free to play action command RPG featuring turn-based battles available on mobile devices. The collaboration with fan favorite\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/A_9gR41ivBU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXhXcw-BNUZBT3UF0zfI2TDBvapQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "OMG I Hatched Huge Festive Cat Without Robux! This Happened! - Pet Simulator X Roblox",
+            "link": "https://www.youtube.com/watch?v=KjbbHMfBvDE",
+            "channel": {
+                "name": "mayrushart",
+                "link": "https://www.youtube.com/c/mayrushart",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/RDg44YeZJERg54iKvwo2GarAOGXdWKdfvi5dcHMoXAEwn_vPDn-vu3tfSwe61O8C_oshMf5SUA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 months ago",
+            "views": 2054750,
+            "length": "9:12",
+            "description": "OMG I Hatched Huge Festive Cat Without Robux! This Happened! - Pet Simulator X Roblox Star Code: mayrushart Instagram:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/KjbbHMfBvDE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADyLrN68bgefK4rNYQ93GgiBU-6Q"
+            }
+        }
+    ],
+    "playlist_results": [
+        {
+            "position_on_page": 18,
+            "title": "Mix - Anime",
+            "link": "https://www.youtube.com/watch?v=JBqxVX_LXvk&list=RDQMvCGcvKGFAw8&start_radio=1",
+            "video_count": 50,
+            "videos": [
+                {
+                    "title": "Fire Force \u2013 Opening Theme \u2013 Inferno",
+                    "link": "https://www.youtube.com/watch?v=JBqxVX_LXvk&list=RDQMvCGcvKGFAw8&start_radio=1",
+                    "length": "1:30"
+                },
+                {
+                    "title": "Death Note OP 1 [NC]",
+                    "link": "https://www.youtube.com/watch?v=8QE9cmfxx4s&list=RDQMvCGcvKGFAw8&start_radio=1",
+                    "length": "1:22"
+                }
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/JBqxVX_LXvk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAItQ4CkDrK8jPgiYK4yg07p2X03g"
+        }
+    ],
+    "pagination": {
+        "current": "https://www.youtube.com/results?search_query=anime",
+        "next": "https://www.youtube.com/results?search_query=anime&sp=SBSCAQtpYlZlTUF0bUVIWYIBC1gxdWRsR21TeVFNggELQXE4YVJ2bXI4YkWCAQsxMGk1TURSaU9GOIIBC0I2Uko3Z1BpcVpRggELUF9hcDlhdktuMVWCAQtPUGc0ZW14UjlWMIIBCzJkb2NlelpsNTc0ggELTU96blBpcjVaNTiCAQtOaThCc1h5bG5fUYIBC0htY2FSc0YxRWNrggELazlnWXBYUUs4VGuCAQtmTDZIaE9qazFpY4IBC3lYWmZ5MDVaUk00ggELNW9sbF92dFZYWVmCAQ9SRFFNdkNHY3ZLR0ZBdziCAQtBTTB3Wm52d1JsY4IBC3lkeDd1S0V0Tm1NggELMXlfNmFubmFidEWCAQttcnA5MkZyNHFJTbIBBgoECBUQAg%253D%253D",
+        "next_page_token": "SBSCAQtpYlZlTUF0bUVIWYIBC1gxdWRsR21TeVFNggELQXE4YVJ2bXI4YkWCAQsxMGk1TURSaU9GOIIBC0I2Uko3Z1BpcVpRggELUF9hcDlhdktuMVWCAQtPUGc0ZW14UjlWMIIBCzJkb2NlelpsNTc0ggELTU96blBpcjVaNTiCAQtOaThCc1h5bG5fUYIBC0htY2FSc0YxRWNrggELazlnWXBYUUs4VGuCAQtmTDZIaE9qazFpY4IBC3lYWmZ5MDVaUk00ggELNW9sbF92dFZYWVmCAQ9SRFFNdkNHY3ZLR0ZBdziCAQtBTTB3Wm52d1JsY4IBC3lkeDd1S0V0Tm1NggELMXlfNmFubmFidEWCAQttcnA5MkZyNHFJTbIBBgoECBUQAg%3D%3D"
+    },
+    "serpapi_pagination": {
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=anime",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=anime&sp=SBSCAQtpYlZlTUF0bUVIWYIBC1gxdWRsR21TeVFNggELQXE4YVJ2bXI4YkWCAQsxMGk1TURSaU9GOIIBC0I2Uko3Z1BpcVpRggELUF9hcDlhdktuMVWCAQtPUGc0ZW14UjlWMIIBCzJkb2NlelpsNTc0ggELTU96blBpcjVaNTiCAQtOaThCc1h5bG5fUYIBC0htY2FSc0YxRWNrggELazlnWXBYUUs4VGuCAQtmTDZIaE9qazFpY4IBC3lYWmZ5MDVaUk00ggELNW9sbF92dFZYWVmCAQ9SRFFNdkNHY3ZLR0ZBdziCAQtBTTB3Wm52d1JsY4IBC3lkeDd1S0V0Tm1NggELMXlfNmFubmFidEWCAQttcnA5MkZyNHFJTbIBBgoECBUQAg%253D%253D",
+        "next_page_token": "SBSCAQtpYlZlTUF0bUVIWYIBC1gxdWRsR21TeVFNggELQXE4YVJ2bXI4YkWCAQsxMGk1TURSaU9GOIIBC0I2Uko3Z1BpcVpRggELUF9hcDlhdktuMVWCAQtPUGc0ZW14UjlWMIIBCzJkb2NlelpsNTc0ggELTU96blBpcjVaNTiCAQtOaThCc1h5bG5fUYIBC0htY2FSc0YxRWNrggELazlnWXBYUUs4VGuCAQtmTDZIaE9qazFpY4IBC3lYWmZ5MDVaUk00ggELNW9sbF92dFZYWVmCAQ9SRFFNdkNHY3ZLR0ZBdziCAQtBTTB3Wm52d1JsY4IBC3lkeDd1S0V0Tm1NggELMXlfNmFubmFidEWCAQttcnA5MkZyNHFJTbIBBgoECBUQAg%3D%3D"
+    }
+}

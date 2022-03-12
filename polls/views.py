@@ -1,3 +1,4 @@
+import json
 from django.http import Http404, HttpResponse
 from django.shortcuts import get_object_or_404, render
 from django.template import loader
@@ -73,11 +74,8 @@ def youtube_search(request):
     }
     search = GoogleSearch(params)
     results = search.get_dict()
+    json_serial = json.dumps(results)
 
-    results_text = ""
-    for key, value in results.items():
-        results_text += value
-
-    return HttpResponse(results_text)
+    return HttpResponse(json_serial)
 
     
