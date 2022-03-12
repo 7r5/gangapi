@@ -4,9 +4,14 @@ from django.template import loader
 from .models import Question
 from twilio.rest import Client
 import datetime
+import os
 
-account = "AC0b42808b308698a5377254bdfd5d55fc"
-token = "10b38113067ee3c1a2312de6984f2275"
+account = os.environ.get("APIACCOUNT")
+token = os.environ.get("APIKEY")
+print("@"*40)
+print(account)
+print(token)
+
 client = Client(account, token)
 
                                  
