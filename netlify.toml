@@ -13,7 +13,4 @@
   # located at the absolute path "root/project/build-output"
   
   publish = ""
-
-  command = "pip install -r requierements.txt"
-  command = "ls"  
   command = "python manage.py runserver 8080"  
