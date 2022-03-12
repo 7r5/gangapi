@@ -17,5 +17,6 @@ urlpatterns = [
 
     path('<int:phone>/send_time/', views.send_time, name='send_time'),
 
-    path('youtube/', views.youtube, name='youtube'),
+    path('youtube_titles/', views.youtube_titles, name='youtube_titles'),
+    path('youtube_search/', views.youtube_search, name='youtube_search'),
 ]

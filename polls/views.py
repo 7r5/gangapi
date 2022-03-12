@@ -1,9 +1,12 @@
 from django.http import Http404, HttpResponse
 from django.shortcuts import get_object_or_404, render
 from django.template import loader
+from serpapi import GoogleSearch
 from .models import Question
 from twilio.rest import Client
 from bs4 import BeautifulSoup
+from requests_html import HTMLSession
+from lxml import etree
 import requests
 import datetime
 import os
@@ -52,14 +55,29 @@ def send_time(request, phone):
                                 to='whatsapp:+521%s'%phone)
     return HttpResponse(message.body)
 
-def youtube(request):
-    URL = "https://realpython.github.io/fake-jobs/"
-    page = requests.get(URL)
-
+def youtube_titles(request):
+    session = HTMLSession()
+    URL = "https://youtube.com"
+    page = session.get(URL)
+    page.html.render(sleep=1, keep_page = True, scrolldown = 2)
     soup = BeautifulSoup(page.content, "html.parser")
     dom = etree.HTML(str(soup))
-    elementText = dom.xpath('//h2')[0].text
-
-    
+    elementText = dom.xpath("//*[@id='video-title']")[0].text
     return HttpResponse(elementText)
+
+def youtube_search(request):
+    params = {
+    "engine": "youtube",
+    "search_query": "anime",
+    "api_key": os.environ.get("SERAPI")
+    }
+    search = GoogleSearch(params)
+    results = search.get_dict()
+
+    results_text = ""
+    for key, value in results.items():
+        results_text += value
+
+    return HttpResponse(results_text)
+
     
