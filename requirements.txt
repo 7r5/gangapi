@@ -1,0 +1,15 @@
+asgiref
+dj-database-url
+Django
+django-heroku
+gunicorn
+Pillow
+psycopg2
+pyreadline
+pyserial
+pyudev
+rshell
+six
+sqlparse
+tzdata
+whitenoise
