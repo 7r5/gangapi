@@ -1,13 +1,2 @@
-asgiref
-dj-database-url
 Django
-django-heroku
 Pillow
-pyreadline
-pyserial
-pyudev
-rshell
-six
-sqlparse
-tzdata
-whitenoise
