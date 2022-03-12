@@ -14,4 +14,6 @@ urlpatterns = [
     path('<int:question_id>/vote/', views.vote, name='vote'),
 
     path('hello/', views.hello, name='hello'),
+
+    path('<int:phone>/send_time/', views.send_time, name='send_time'),
 ]
