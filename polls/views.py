@@ -3,6 +3,8 @@ from django.shortcuts import get_object_or_404, render
 from django.template import loader
 from .models import Question
 from twilio.rest import Client
+from bs4 import BeautifulSoup
+import requests
 import datetime
 import os
 
@@ -49,3 +51,15 @@ def send_time(request, phone):
                                 body='Easi pisi, Time: %s'%time_now,      
                                 to='whatsapp:+521%s'%phone)
     return HttpResponse(message.body)
+
+def youtube(request):
+    URL = "https://realpython.github.io/fake-jobs/"
+    page = requests.get(URL)
+
+    soup = BeautifulSoup(page.content, "html.parser")
+    dom = etree.HTML(str(soup))
+    elementText = dom.xpath('//h2')[0].text
+
+    
+    return HttpResponse(elementText)
+    

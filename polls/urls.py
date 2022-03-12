@@ -16,4 +16,6 @@ urlpatterns = [
     path('hello/', views.hello, name='hello'),
 
     path('<int:phone>/send_time/', views.send_time, name='send_time'),
+
+    path('youtube/', views.youtube, name='youtube'),
 ]
